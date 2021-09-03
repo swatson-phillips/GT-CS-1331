@@ -1,8 +1,8 @@
-1331 Day 5 9/03/21 Lesson Plan
+1331 Day 6 9/03/21 Lesson Plan
 
 Announcements:
     * PE 2 released
-    * Participation activity
+    * Participation activity today
     * Bring your laptop one day before our exam to test it out
 
 Topics: Program Control Flow
