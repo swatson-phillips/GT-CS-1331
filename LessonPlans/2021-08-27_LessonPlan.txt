@@ -1,0 +1,41 @@
+1331 Day 3 8/27/21 Lesson Plan
+
+Announcements:
+* Moving the release of PE 1 -> TBD
+* Released PE0
+* Make sure to get your weekly test:
+    * https://health.gatech.edu/coronavirus/testing/dual-pooling
+    * https://health.gatech.edu/coronavirus/testing
+* What do you do if you get sick or are quarantined?
+
+Topics:
+=> Java Introduction:
+    * What is the JRE and JDK?
+
+    * Syntax vs semantics
+    * What is a class?
+    * Compilation process
+    * Comments
+        * in-line
+        * block
+        * JavaDoc
+
+=> Variables & assignment
+    * What are variables and identifiers?
+    * What does strongly typed mean?
+    * How do you declare a variable?
+    * How do we assign a value to the variable?
+    * What is a literal value?
+    * Why put the letters at the end of a number???
+
+=> Constants
+    * What is a constant?
+    * How do we make a variable a constant in Java?
+
+-- we did not get to the below, watch on your own --
+
+=> Debugging Intro
+    * Compile time errors: https://youtu.be/6X2lh4e7duA
+    * Runtime exceptions: https://youtu.be/rzcDMiejxQ0
+    * Dissect a stacktrace: https://youtu.be/_kIGs_amTX4
+    * Logic errors: https://youtu.be/8KyO-kniog0

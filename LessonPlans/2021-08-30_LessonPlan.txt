@@ -1,0 +1,23 @@
+1331 Day 4 8/30/21 Lesson Plan
+
+Announcements:
+* Make sure that you are getting and READING Canvas Announcements
+* PLUS sessions start this week
+* participation activity today
+
+Topics:
+=> Naming Conventions (2.8)
+    * Class names vs ALMOST everything else
+    * constants
+=> jShell
+=> java types
+=> Literal Numeric values (2.10)
+    * examples
+=> Expressions (2.11-2.14, 3.15)
+    * What is an expression?
+    * Order of operations
+    * examples
+=> Type “conversion” (2.15)
+    * assignment
+    * arithmetic promotion
+    * casting
