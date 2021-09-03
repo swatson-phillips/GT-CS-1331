@@ -8,6 +8,7 @@ Announcements:
 Topics: Program Control Flow
 => Conditionals
     * (review)if, else if, else (3.3-3.6) - Conditionals.java
+    ** the else gets matched with the closes if when there aren't {}
     * ternary(3.14) - TernaryExample.java
     * switch (3.13) - ChineseZodiac.java & SwitchDemo.java
 => Iteration (5)
