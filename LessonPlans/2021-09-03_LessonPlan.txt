@@ -8,16 +8,19 @@ Announcements:
 Topics: Program Control Flow
 => Conditionals
     * (review)if, else if, else (3.3-3.6) - Conditionals.java
-    ** the else gets matched with the closes if when there aren't {}
+        ** the else gets matched with the closes if above when there aren't {}
     * ternary(3.14) - TernaryExample.java
     * switch (3.13) - ChineseZodiac.java & SwitchDemo.java
 => Iteration (5)
     * while loop
     * do-while loop
     * for loop
-    * conversion between types to loops
-    * continue and break
+    * continue and break: https://docs.oracle.com/javase/tutorial/java/nutsandbolts/branch.html
+        * break - used to terminate a for, while, or do-while loop, often combined with conditional if. Does not re-evaluate the boolean-expression of the loop.
+        * continue - skips the remainder of a for, while , or do-while loop and re-evaluated the boolean-expression of the loop.
     * Pitfalls:
         * Caution: watch for stray ; (semi-colon) after the closing parenthesis in for loop
         * Incorrectly incrementing or decrementing a control variable
         * Infinite loops
+--- Stopped here 9/3/21 ---
+    * conversion between types to loops
