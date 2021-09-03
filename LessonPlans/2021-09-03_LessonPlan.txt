@@ -1,1 +1,22 @@
+1331 Day 5 9/03/21 Lesson Plan
 
+Announcements:
+    * PE 2 released
+    * Participation activity
+    * Bring your laptop one day before our exam to test it out
+
+Topics: Program Control Flow
+=> Conditionals
+    * (review)if, else if, else (3.3-3.6) - Conditionals.java
+    * ternary(3.14) - TernaryExample.java
+    * switch (3.13) - ChineseZodiac.java & SwitchDemo.java
+=> Iteration (5)
+    * while loop
+    * do-while loop
+    * for loop
+    * conversion between types to loops
+    * continue and break
+    * Pitfalls:
+        * Caution: watch for stray ; (semi-colon) after the closing parenthesis in for loop
+        * Incorrectly incrementing or decrementing a control variable
+        * Infinite loops
