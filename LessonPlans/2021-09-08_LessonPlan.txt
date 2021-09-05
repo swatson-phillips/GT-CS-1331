@@ -1,0 +1,37 @@
+1331 Day 7 09/08/21 Lesson Plan
+
+Announcements:
+    * Bring your laptop one day before our exam to test it out
+
+Topics: Program Control Flow
+=> Iteration (5)
+    * conversion between types to loops
+=> Classes and Objects relationship
+    * what variables hold
+    * variable aliasing (we'll come back to this at the end)
+=> Strings
+    * what are Strings in Java
+    * Immutability
+    * Ways to construct Strings
+    * common String methods (navigating the API)
+    * Interned Strings (Java being efficient)
+    * String concatenation (i.e. new object creation)
+    * StringMutation.java
+=> Console I/O
+    * Basic Output
+        * print vs println
+        * Escape sequences (Roses.java)
+    * Input
+        * Scanner
+        * System.in
+        * Tokens
+        * DelimiterExample.java
+        * ScannerUseDelimiterExample.java
+        * common methods
+        * Example GasMileage.java
+    * Formatted Output
+        * printf
+        * Format Specifiers
+        * Specifying Precision
+        * https://liveexample.pearsoncmg.com/liang/intro12e/html/FormatDemo.html
+=> Variable aliasing
