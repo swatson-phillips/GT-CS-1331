@@ -17,13 +17,14 @@ Topics: Program Control Flow
     * Ways to construct Strings
     * common String methods (navigating the API)
     * Interned Strings (Java being efficient)
-    * == vs .equals
     * String concatenation (i.e. new object creation)
     * StringMutation.java
 => Console I/O
     * Basic Output
         * print vs println
         * Escape sequences (Roses.java)
+
+--stop here 09/08 --
     * Input
         * Scanner
         * System.in
@@ -38,3 +39,4 @@ Topics: Program Control Flow
         * Specifying Precision
         * https://liveexample.pearsoncmg.com/liang/intro12e/html/FormatDemo.html
 => Variable aliasing
+    * == vs .equals
