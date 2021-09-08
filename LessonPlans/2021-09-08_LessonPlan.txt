@@ -2,6 +2,8 @@
 
 Announcements:
     * Bring your laptop one day before our exam to test it out
+    * Lifesaver late penalty waiver request form posted
+    * Lecture is being broadcast, link available on Canvas main page
 
 Topics: Program Control Flow
 => Iteration (5)
@@ -15,6 +17,7 @@ Topics: Program Control Flow
     * Ways to construct Strings
     * common String methods (navigating the API)
     * Interned Strings (Java being efficient)
+    * == vs .equals
     * String concatenation (i.e. new object creation)
     * StringMutation.java
 => Console I/O
