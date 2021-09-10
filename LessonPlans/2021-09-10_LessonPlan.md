@@ -46,7 +46,6 @@ http://www.c-jump.com/bcc/c157c/Week08/Week08.html#W01_0120_formatting_output_wi
 
 <img width="974" alt="image" src="https://user-images.githubusercontent.com/49889272/132780801-9f120019-e65c-43b9-a0f4-452cf853b978.png">
 
--  https://liveexample.pearsoncmg.com/liang/intro12e/html/FormatDemo.html
 ### Variable aliasing
 -  == vs .equals
 
@@ -64,3 +63,5 @@ http://www.c-jump.com/bcc/c157c/Week08/Week08.html#W01_0120_formatting_output_wi
 - trigimetric functions are in radians
 - helpful constants: Math.PI and Math.E
 - See examples: `BasicMathDemo.java` & `ExponentialDemo.java`
+- https://liveexample.pearsoncmg.com/liang/intro12e/html/FormatDemo.html
+
