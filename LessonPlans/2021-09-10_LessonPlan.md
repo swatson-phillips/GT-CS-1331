@@ -20,10 +20,15 @@
 https://docs.oracle.com/javase/7/docs/api/java/util/Scanner.html
 - `System.in`: standard console input
 - Tokens
+-  Common Scanner methods
+  - `nextLine()`
+  - `int nextInt()`
+  - `double nextDouble()`  
+  - `String next()` // next token 
+  - `void useDelimeter(String)`
 - `DelimiterExample.java`
 - `ScannerUseDelimiterExample.java`
-- common methods
-- Example: `GasMileage.java`
+- `GasMileage.java`
 ### Formatted Output
 - `printf`
 - Format Specifiers
