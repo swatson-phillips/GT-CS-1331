@@ -20,31 +20,45 @@
 `import java.util.*; `
 
 ### Input
-- `Scanner`: in the `java.util` package so it must be imported
-https://docs.oracle.com/javase/7/docs/api/java/util/Scanner.html
+- [`Scanner`](https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/Scanner.html): in the `java.util` package so it must be imported
 - `System.in`: standard console input
 - Tokens
 -  Common Scanner methods
-  - `nextLine()`
-  - `int nextInt()`
-  - `double nextDouble()`  
-  - `String next()` // next token
-  - `void useDelimeter(String)`
+   - [`String nextLine()`](https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/Scanner.html#nextLine())
+   - [`int nextInt()`](https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/Scanner.html#nextInt())
+   - [`double nextDouble()`](https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/Scanner.html#nextDouble())  
+   - [`String next()`](https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/Scanner.html#next()) // next token
+   - [`void useDelimeter(String)`](https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/Scanner.html#useDelimiter(java.lang.String))
 - `DelimiterExample.java`
 - `ScannerUseDelimiterExample.java`
+- If you are really interested in the [Patterns for specifying delimiter here](https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/regex/Pattern.html)
 - `GasMileage.java`
 ### Formatted Output
-- `printf`
-- Format Specifiers
+- `printf`: uses a format specifyer string to format string output. The format specifier string is in the following format:
+
+  `% [flags] [width] [.precision] [argsize] typechar`
+
+- Common Conversion characters (Format Specifier Characters)
 http://www.c-jump.com/bcc/c157c/Week08/Week08.html#W01_0120_formatting_output_wit
 ![image](http://www.c-jump.com/bcc/c157c/Week08/const_images/printf_conversions.png)
 
-- Specifying Precision
+- [Lots of details and additional format specifiers can be found in the Java API](https://docs.oracle.com/javase/7/docs/api/java/util/Formatter.html)
+<hr>
+Stopped here 9/10/21
+<hr>
+
+- Specifying Minimum Width and Precision
 
 ![image](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Printf.svg/640px-Printf.svg.png?1631233486532)
 
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Printf.svg/640px-Printf.svg.png?1631233486532
+
 - But wait there's more...
+
 ![image](https://docs.oracle.com/javase/tutorial/figures/essential/io-spec.gif)
+
+https://docs.oracle.com/javase/tutorial/figures/essential/io-spec.gif
+
 - [Oracle tutorial on format method](https://docs.oracle.com/javase/tutorial/essential/io/formatting.html)
 - Left justification:
 
