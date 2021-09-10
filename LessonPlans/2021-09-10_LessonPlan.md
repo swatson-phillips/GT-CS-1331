@@ -36,9 +36,8 @@ http://www.c-jump.com/bcc/c157c/Week08/Week08.html#W01_0120_formatting_output_wi
 
 - But wait there's more...
 ![image](https://docs.oracle.com/javase/tutorial/figures/essential/io-spec.gif)
-- [Oracle tutorial on formatginf method](https://docs.oracle.com/javase/tutorial/essential/io/formatting.html)
+- [Oracle tutorial on format method](https://docs.oracle.com/javase/tutorial/essential/io/formatting.html)
 - Left justification:
-
 
 <img width="974" alt="image" src="https://user-images.githubusercontent.com/49889272/132780801-9f120019-e65c-43b9-a0f4-452cf853b978.png">
 
