@@ -5,14 +5,14 @@
 - Make sure to check the living schedule for updates on topics as we cover material
 - You have 1 "get out of jail free card" this semester where the late penalty on a PE or HW can be waived, just fill out the form. This is not an additional extension.
 
-## Topics: I/O (continued), Packages, Math, and Random 
+## Topics: I/O (continued), Packages, Math, and Random
 ### Packages
-- Packages - grouping of classes, sets of related classes 
-- They are essentially folders where you put your class files. 
-- 2 ways to import/include a Class/package: 
-  - Explicit - import specific classes 
+- Packages - grouping of classes, sets of related classes
+- They are essentially folders where you put your class files.
+- 2 ways to import/include a Class/package:
+  - Explicit - import specific classes
 `import java.util.Random;`
-  - Wildcard - imports all classes in the package 
+  - Wildcard - imports all classes in the package
 `import java.util.*; `
 
 ### Input
@@ -24,7 +24,7 @@ https://docs.oracle.com/javase/7/docs/api/java/util/Scanner.html
   - `nextLine()`
   - `int nextInt()`
   - `double nextDouble()`  
-  - `String next()` // next token 
+  - `String next()` // next token
   - `void useDelimeter(String)`
 - `DelimiterExample.java`
 - `ScannerUseDelimiterExample.java`
@@ -49,19 +49,18 @@ http://www.c-jump.com/bcc/c157c/Week08/Week08.html#W01_0120_formatting_output_wi
 ### Variable aliasing
 -  == vs .equals
 
-### Some useful Classes/Packages 
-#### `java.util.Random` 
-- A pseudo random number generator. 
-- Must import java.util.Random; 
-- Important to keep in mind what the range of methods in this class are 
-  - `nextInt();` // all possible int values 
-  - `nextInt(int bound);` // from 0 to the bound 
-  - `nextFloat();` // 0.0f (inclusive) to 1.0f (exclusive) 
+### Some useful Classes/Packages
+#### `java.util.Random`
+- A pseudo random number generator.
+- Must import java.util.Random;
+- Important to keep in mind what the range of methods in this class are
+  - `nextInt();` // all possible int values
+  - `nextInt(int bound);` // from 0 to the bound
+  - `nextFloat();` // 0.0f (inclusive) to 1.0f (exclusive)
 - See examples: `RandomBasics.java` & `RandomEx.java`
-#### `java.lang.Math` 
+#### `java.lang.Math`
 - All methods are static (you do not need to create an object to use them)
-- trigimetric functions are in radians
+- trigonometric functions are in radians
 - helpful constants: Math.PI and Math.E
 - See examples: `BasicMathDemo.java` & `ExponentialDemo.java`
 - https://liveexample.pearsoncmg.com/liang/intro12e/html/FormatDemo.html
-
