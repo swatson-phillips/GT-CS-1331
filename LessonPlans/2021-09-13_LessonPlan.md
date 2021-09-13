@@ -7,6 +7,25 @@
 - You have 1 "get out of jail free card" this semester where the late penalty on a PE or HW can be waived, just fill out the form. This is not an additional extension.
 
 ## Topics: Math, Random, static methods, Enums, and Coding Conventions
+### Formatted Output
+- Specifying Minimum Width and Precision
+
+![image](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Printf.svg/640px-Printf.svg.png?1631233486532)
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Printf.svg/640px-Printf.svg.png?1631233486532
+
+- But wait there's more...
+
+![image](https://docs.oracle.com/javase/tutorial/figures/essential/io-spec.gif)
+
+https://docs.oracle.com/javase/tutorial/figures/essential/io-spec.gif
+
+- [Oracle tutorial on format method](https://docs.oracle.com/javase/tutorial/essential/io/formatting.html)
+- Left justification:
+
+<img width="974" alt="image" src="https://user-images.githubusercontent.com/49889272/132780801-9f120019-e65c-43b9-a0f4-452cf853b978.png">
+- You really need to play with this to get a feel for how to use it.
+
 ### Some useful Classes/Packages
 #### `java.util.Random`
 - A pseudo random number generator.
