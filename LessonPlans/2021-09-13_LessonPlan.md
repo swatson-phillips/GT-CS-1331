@@ -43,10 +43,12 @@
 ### Method Overloading
 - What is the method siganture?
 - Overloading is when 2 methods have the same name but different signatures (i.e. the parameter list is different)
+
 - Ambiguous Invocation:
+`    public static void max(int a, double b){}
+     public static void max(double a, int b){}
 `
-    public static void max(int a, double b){}
-    public static void max(double a, int b){} `
+
 Which method is used for this invocation: `max(13, 17)`
 ### Emumerations
 - Assigned reading (before next class): outline and/or Appendix I and examples
