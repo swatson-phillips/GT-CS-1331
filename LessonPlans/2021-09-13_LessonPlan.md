@@ -1,12 +1,12 @@
 # 1331 Day 9 - 09/13/21 Lesson Plan
 
 ## Announcements:
-- Expected out of lecture time for this class. You should spend another 2 hrs outside of class FOR EACH lecture hour.
+- Expected out of lecture time for this class. You should spend another **2 hrs outside of class FOR EACH lecture hour**.
 - [Make sure you are getting your weekly COVID Surveillance Test](https://health.gatech.edu/coronavirus/testing/surveillance)
 - Make sure to check the living schedule for updates on topics as we cover material
 - You have 1 "get out of jail free card" this semester where the late penalty on a PE or HW can be waived, just fill out the form. This is not an additional extension.
 
-## Topics: Math, Random, static methods
+## Topics: Math, Random, static methods, Enums, and Coding Conventions
 ### Some useful Classes/Packages
 #### `java.util.Random`
 - A pseudo random number generator.
@@ -33,7 +33,7 @@
 }`
 - see figure 6.1 from your textbook
 - `FindSum.java` -> `MethodExample.java`
-- ** All parameters are pass by value! (6.5) **
+- **All parameters are pass by value! (6.5)**
 - `Increment.java `
 - `TestPassByValue.java`
 ### Method Scope
@@ -43,11 +43,10 @@
 ### Method Overloading
 - What is the method siganture?
 - Overloading is when 2 methods have the same name but different signatures (i.e. the parameter list is different)
-
 - Ambiguous Invocation:
-`    public static void max(int a, double b){}
-     public static void max(double a, int b){}
-`
+<pre><code>public static void max(int a, double b){}
+public static void max(double a, int b){}
+</code></pre>
 
 Which method is used for this invocation: `max(13, 17)`
 ### Emumerations
