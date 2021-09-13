@@ -60,8 +60,13 @@ https://docs.oracle.com/javase/tutorial/figures/essential/io-spec.gif
 - parameters to methods become local variables
 - local variable (parameters and declared) only have scope within the method body
 ### Method Overloading
-- What is the method siganture?
+- What is the method signature?
 - Overloading is when 2 methods have the same name but different signatures (i.e. the parameter list is different)
+
+---
+Stoped here 9/13/21
+---
+
 - Ambiguous Invocation:
 <pre><code>public static void max(int a, double b){}
 public static void max(double a, int b){}
