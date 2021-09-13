@@ -29,7 +29,7 @@ https://docs.oracle.com/javase/tutorial/figures/essential/io-spec.gif
 ### Some useful Classes/Packages
 #### `java.util.Random`
 - A pseudo random number generator.
-- Must import java.util.Random;
+- Must include at the top of you class file `import java.util.Random;``
 - Important to keep in mind what the range of methods in this class are
   - `nextInt();` // all possible int values
   - `nextInt(int bound);` // from 0 to the bound
