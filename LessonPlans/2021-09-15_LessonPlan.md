@@ -7,7 +7,7 @@
 - [Make sure you are getting your weekly COVID Surveillance Test](https://health.gatech.edu/coronavirus/testing/surveillance)
 
 ---
-# Topics: Static methods, Ambiguous Invocation, Enums example
+# Topics: Static methods, Ambiguous Invocation, Enums example and ARRAYS
 ---
 ## Methods examples
 - `FindSum.java` -> `MethodExample.java`
