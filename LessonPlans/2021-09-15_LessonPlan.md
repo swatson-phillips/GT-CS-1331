@@ -30,8 +30,11 @@ public static void max(double a, int b){}
 - Questions?
 - example: `EnumExample.java` and `ClassYear.java`
 
+![image](https://user-images.githubusercontent.com/49889272/133456764-2c1344ff-f7e9-4bc3-ada3-85ef83fddfac.png)
 
-## if(Arrays) 
+**(Parallel Activity) == true**
+
+## if(Arrays) ==> Not covered 9/15/21
 - What are arrays?
     - data structure that is a fixed-size that holds elements of the same data type
     - **object!!!**
@@ -55,4 +58,9 @@ public static void max(double a, int b){}
 - What if one processing "thread" needs something from another?
 - Overhead with performing processing in parallel
 - Speedup: Speedup(n) = T(1)/T(n)
+
+(407 seconds)/90 => 4.5x speedup
+
+![20210915_092048](https://user-images.githubusercontent.com/49889272/133456293-6c4f8161-c62b-4474-84d6-22bfd761d40a.jpg)
+
 - http://hmf.enseeiht.fr/travaux/CD0001/travaux/optmfn/micp/reports/s13itml/theory.htm
