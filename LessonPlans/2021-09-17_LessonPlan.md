@@ -10,23 +10,32 @@
 ---
 # Arrays
 ## What are arrays?
-    - data structure that is a fixed-size that holds elements of the same data type
-    - **object!!!**
-    - a variable of an array type holds an object reference, what are the implications of this?
+- data structure that is a **fixed-size** that holds elements of the same data type
+- **object!!!**
+- a variable of an array type holds an object reference, what are the implications of this?
+
 ## Working with arrays
 - Size: getting the length of an array (.length - not a method unlike String.length())
-- Java does auto bounds checking (this is different than C)
+- Java does auto bounds checking (this is different than C) to prevent accessing memory outside of the bounds of the array. Instead you can get an ArrayIndexOutOfBoundsException at Runtime.
 - declaring an array
 - initializing an array
 - assigning values to the array elements
 - iterating over an array
     - for loop
-    - for-each loop
+    - for-each loop (enhanced for loop)
 - Arrays are objects, what happens if you pass an array variable as a parameter to a method? Can you change the elements in the array?
 - Can you resize an array?
 - Command line arguments
+
+
 ## Multidimensional arrays
 - look at the outline or textbook chapter 8
+
+---
+
+Stopped here 9/17/21 - end Exam 1 material
+
+---
 
 # Classes
 - **encapsulation**
