@@ -49,5 +49,12 @@ car1.mpg`
 ## **encapsulation**
 - enforcing encapsulation w/ visibility modifiers: (public and private) (9.8)
 
-https://www.scientecheasy.com/2020/07/encapsulation-in-java.html/
+![encapsulation capsule](https://www.scientecheasy.com/wp-content/uploads/2018/06/encapsulation-in-java.png)
+
+- https://www.scientecheasy.com/2020/07/encapsulation-in-java.html/
+- The private modifier **enforces encapsulation** and means that no outside class can see/access the data or method.
+
+![another capsule](https://1.bp.blogspot.com/-wewWgd9nOdQ/XrE8v3a2mRI/AAAAAAAAANQ/bO0BgZp22qMumWdc7YO7eBnXlZx5J2grQCLcBGAsYHQ/s640/encap.JPG)
+
+- https://corejavasea.blogspot.com/2020/05/encapsulation.html
 - getters and setters (9.9)
