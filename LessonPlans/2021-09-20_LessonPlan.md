@@ -20,6 +20,9 @@
 - belongs a particular object
 - automatically initialized with defaults for the data type:
 
+<img width="330" alt="image" src="https://user-images.githubusercontent.com/49889272/133936694-6380d2ce-87d9-43d2-a64e-a15fb7b8e363.png"> 
+(https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html)
+
 ## instance methods
 - variable scope (9.13)
 - overloading (6.8) - same as with static methods
