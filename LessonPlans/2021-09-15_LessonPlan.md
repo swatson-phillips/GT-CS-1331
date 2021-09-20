@@ -54,7 +54,7 @@ public static void max(double a, int b){}
 
 ## else(Parallel Activity)
 - Let's find the highest number of pets any student in the class has owned at 1 time. (pass a sheet of paper around while we talk about Enums)
-- Parallel data processing/decomposition, how can we make this better? Let's find the max number of countries any student has lived in?
+- Parallel data processing/decomposition, how can we make this better? Let's find the max number of countries any student has lived in? This time each row will have their own piece of paper and once complete the TAs will coordinate the row comparision at the end. Each row is like a thread or process.
 - What if one processing "thread" needs something from another?
 - Overhead with performing processing in parallel
 - Speedup: Speedup(n) = T(1)/T(n)
