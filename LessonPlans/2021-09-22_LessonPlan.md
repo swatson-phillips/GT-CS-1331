@@ -43,7 +43,7 @@ https://corejavasea.blogspot.com/2020/05/encapsulation.html
 - At class level, think about how the class will work (in the class)
 - At program level, think about how the objects will interact
 - The class should provide a public interface for other classes to interact with in order to uphold the principle of encapsulation.
--“Encapsulation is the packing of data and functions operating on that data into a single component and restricting the access to some of the object’s components. Encapsulation means that the internal representation of an object is generally hidden from view outside of the object’s definition.” https://medium.com/@manjuladube/encapsulation-abstraction-35999b0a3911
+- “Encapsulation is the packing of data and functions operating on that data into a single component and restricting the access to some of the object’s components. Encapsulation means that the internal representation of an object is generally hidden from view outside of the object’s definition.” https://medium.com/@manjuladube/encapsulation-abstraction-35999b0a3911
 - What is NEEDED by other classes vs what is in the class
 
 # Constructors and scope-
@@ -53,12 +53,12 @@ https://corejavasea.blogspot.com/2020/05/encapsulation.html
     - have access modifiers (why? Math class)
     - not have a return datatypes
     - must have the same name as the class (case sensitive)
-- Recall scope is region of the program where it is accessible
+- Recall scope is region of the program where it is accessible; this is different than visibility from outside of the class
     - Formal params -> only within the method
     - Local variables -> only within the method
     - Instance data -> entire class
 - Field shadowing:
->"A *parameter* can have the *same name* as one of the *class's fields*. If this is the case, the parameter is said to shadow the field. Shadowing fields can make your code difficult to read and is conventionally used only within constructors and methods that set a particular field.” https://docs.oracle.com/javase/tutorial/java/javaOO/arguments.html
+>"A **parameter** can have the **same name** as one of the **class's fields**. If this is the case, the parameter is said to shadow the field. Shadowing fields can make your code difficult to read and is conventionally used only within constructors and methods that set a particular field.” https://docs.oracle.com/javase/tutorial/java/javaOO/arguments.html
 
 - Be very careful if the parameter name matches an instance variable. 
 - ***Default constructor*** - if you don’t write one, one is available as a default that has no parameters
