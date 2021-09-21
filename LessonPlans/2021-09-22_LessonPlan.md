@@ -28,6 +28,11 @@ private static someStaticMethod(){}
 ![another capsule](https://1.bp.blogspot.com/-wewWgd9nOdQ/XrE8v3a2mRI/AAAAAAAAANQ/bO0BgZp22qMumWdc7YO7eBnXlZx5J2grQCLcBGAsYHQ/s640/encap.JPG)
 
 https://corejavasea.blogspot.com/2020/05/encapsulation.html
+
+![visibility modifiers - ignore the middle](https://3.bp.blogspot.com/-vcAqVl_jk8w/WmG7rn2zlOI/AAAAAAAAAjc/vLfi-1A9y8M6RalsMq1COdFwj9evntJXQCLcBGAs/s1600/private.png)
+
+http://androidappssourcecodes.blogspot.com/2018/01/accesscanbepackage-private-protected.html
+
 - Data:
     - public: ANYONE (any other class or object) that holds a reference to an object can view and set the value of public fields
     - private: can only be viewed and set from within the class
