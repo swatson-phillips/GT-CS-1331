@@ -2,6 +2,7 @@
 
 # Announcements:
 - Exam 1 Friday!!! **You must be in person and have your BuzzCard scanned**
+- Virtual Office Hours and the new queue, have to be on GT nextwork or VPN to use
 - PE 4 due Thursday at 11:59pm
 - [Sample Exam Canvas Quiz](https://gatech.instructure.com/courses/204744/quizzes/290129) (not indicative of the material just the format)
 - [Canvas quiz to check you HonorLock setup](https://gatech.instructure.com/courses/204744/quizzes/305371)
