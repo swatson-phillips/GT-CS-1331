@@ -2,7 +2,7 @@
 
 # Announcements:
 - Exam 1 Friday!!! **You must be in person and have your BuzzCard scanned**
-- Virtual Office Hours and the new queue, have to be on GT nextwork or VPN to use
+- Virtual Office Hours and the new queue, have to be on GT network or VPN to use
 - PE 4 due Thursday at 11:59pm
 - [Sample Exam Canvas Quiz](https://gatech.instructure.com/courses/204744/quizzes/290129) (not indicative of the material just the format)
 - [Canvas quiz to check you HonorLock setup](https://gatech.instructure.com/courses/204744/quizzes/305371)
@@ -18,7 +18,7 @@
 
 https://www.baeldung.com/java-stack-heap
 
-Another good resource: https://www.geeksforgeeks.org/understanding-storage-of-static-methods-and-static-variables-in-java/ 
+Another good resource: https://www.geeksforgeeks.org/understanding-storage-of-static-methods-and-static-variables-in-java/
 
 # Constructors and scope-
 - Constructor - special method that is automatically called when objects are instantiated, we will talk more on constructors soon)
@@ -34,7 +34,7 @@ Another good resource: https://www.geeksforgeeks.org/understanding-storage-of-st
 - Field shadowing:
 >"A **parameter** can have the **same name** as one of the **class's fields**. If this is the case, the parameter is said to shadow the field. Shadowing fields can make your code difficult to read and is conventionally used only within constructors and methods that set a particular field.” https://docs.oracle.com/javase/tutorial/java/javaOO/arguments.html
 
-- Be very careful if the parameter name matches an instance variable. 
+- Be very careful if the parameter name matches an instance variable.
 - ***Default constructor*** - if you don’t write one, one is available as a default that has no parameters
 
 # Class Design
