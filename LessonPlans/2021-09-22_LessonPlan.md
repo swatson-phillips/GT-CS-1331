@@ -18,6 +18,8 @@
 
 https://www.baeldung.com/java-stack-heap
 
+Another good resource: https://www.geeksforgeeks.org/understanding-storage-of-static-methods-and-static-variables-in-java/ 
+
 # Constructors and scope-
 - Constructor - special method that is automatically called when objects are instantiated, we will talk more on constructors soon)
 - Constructors can:
