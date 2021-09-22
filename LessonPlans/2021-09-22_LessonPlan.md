@@ -8,14 +8,15 @@
 - [Canvas quiz to check you HonorLock setup](https://gatech.instructure.com/courses/204744/quizzes/305371)
 
 ---
+
 # Topics: Encapsulation and Constructors
+
 ---
-# Class Design
-- At class level, think about how the class will work (in the class)
-- At program level, think about how the objects will interact
-- The class should provide a public interface for other classes to interact with in order to uphold the principle of encapsulation.
-- “Encapsulation is the packing of data and functions operating on that data into a single component and restricting the access to some of the object’s components. Encapsulation means that the internal representation of an object is generally hidden from view outside of the object’s definition.” https://medium.com/@manjuladube/encapsulation-abstraction-35999b0a3911
-- What is NEEDED by other classes vs what is in the class
+# A note of Java memory
+
+![java-heap-stack-diagram](https://www.baeldung.com/wp-content/uploads/2018/07/java-heap-stack-diagram.png)
+
+https://www.baeldung.com/java-stack-heap
 
 # Constructors and scope-
 - Constructor - special method that is automatically called when objects are instantiated, we will talk more on constructors soon)
@@ -33,6 +34,13 @@
 
 - Be very careful if the parameter name matches an instance variable. 
 - ***Default constructor*** - if you don’t write one, one is available as a default that has no parameters
+
+# Class Design
+- At class level, think about how the class will work (in the class)
+- At program level, think about how the objects will interact
+- The class should provide a public interface for other classes to interact with in order to uphold the principle of encapsulation.
+- “Encapsulation is the packing of data and functions operating on that data into a single component and restricting the access to some of the object’s components. Encapsulation means that the internal representation of an object is generally hidden from view outside of the object’s definition.” https://medium.com/@manjuladube/encapsulation-abstraction-35999b0a3911
+- What is NEEDED by other classes vs what is in the class
 
 ## **encapsulation**
 - enforcing encapsulation w/ visibility modifiers: (public and private) (9.8)
