@@ -64,5 +64,10 @@ http://androidappssourcecodes.blogspot.com/2018/01/accesscanbepackage-private-pr
     - public: ANYONE (any other class or object) that holds a reference to an object can call the method; we refer to the collection of the public methods as the class interface or API
 - private: can only be called from within the class
 
-- getters and setters (9.9)
+---
 
+Stopped here 9/22/21
+
+---
+
+- getters and setters (9.9)
