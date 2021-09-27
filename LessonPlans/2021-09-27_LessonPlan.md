@@ -48,3 +48,47 @@ http://androidappssourcecodes.blogspot.com/2018/01/accesscanbepackage-private-pr
 ## getters and setters (9.9)
  - we add getter/accessor methods for providing public access to private data
  - we add setter/mutator methods for providing public access to modify private data (and provide safeguards)
+ - Write getters and setters for the `Unicorn` and `UnicornFarm`
+
+# Constructor chaining (9.14.2)
+- Using the `this` keyword to call another constructor
+- Always chain constructors from the least number of parameters to more.
+```java
+Unicorn() {
+    this("Special Unicorn",
+        20,
+        65.0
+        15.0,
+        "purple",
+        UnicornTrail.RAINBOW);
+}
+Unicron(String _=name,
+        int age,
+        double speed,
+        double foodConsumptionRate,
+        String favColor,
+        UnicornTrail myTrail){
+        this.name = name;
+        this.age = age;
+        this.speed = speed;
+        this.foodConsumptionRate = foodConsumptionRate;
+        this.favColor = favColor;
+        this.myTrail = myTrail;
+}
+```
+
+# Copy Constructors
+- Why have copy constructors
+- shallow vs deep copy constructors
+- What if your class has instance data the references another object?
+
+# Static as a modifier on Variables
+- the variable is shared 
+- how can you keep up with the number of `Unicorns` have been created in the program?
+
+# `null` and NPE
+- `null` is a literal value that representse the absence of a reference value
+- this is the daault when a variable that holds an object reference has not been initialize (doesn't point to any object)
+- If you try to "deference" a variable that holds a null value, you can end up with a `NullPointerException`
+- The `NullPointerException` is a Runtime exception that can cause your program to crash.
+- Let's look at an example...
