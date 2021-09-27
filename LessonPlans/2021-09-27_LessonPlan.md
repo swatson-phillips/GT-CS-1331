@@ -54,7 +54,7 @@ this is where we stopped 9/22
 
 # Constructor chaining (9.14.2)
 - Using the `this` keyword to call another constructor
-- Always chain constructors from the least number of parameters to more.
+- Always chain constructors from the **least number of parameters to more**  for example no-argument to 3 argument to 5 argument constructors.
 ```java
 Unicorn() {
     this("Special Unicorn",
@@ -79,14 +79,21 @@ Unicron(String _=name,
 }
 ```
 
+# Static as a modifier on Variables
+- the variable is shared
+- how can you keep up with the number of `Unicorns` have been created in the program?
+- Examples `Slogan.java` and `Unicorn.java`
+
+---
+
+stopped here 9/27/21 (plus a little on null)
+
+---
+
 # Copy Constructors
 - Why have copy constructors
 - shallow vs deep copy constructors
 - What if your class has instance data the references another object?
-
-# Static as a modifier on Variables
-- the variable is shared
-- how can you keep up with the number of `Unicorns` have been created in the program?
 
 # `null` and NPE
 - `null` is a literal value that represents the absence of a reference value
