@@ -1,12 +1,8 @@
 # 1331 Day 15 - 09/27/21 Lesson Plan
 
 # Announcements:
-- Exam 1 Friday!!! **You must be in person and have your BuzzCard scanned**
 - Virtual Office Hours and the new queue, have to be on GT network or VPN to use
-- PE 4 due Thursday at 11:59pm
-- [Sample Exam Canvas Quiz](https://gatech.instructure.com/courses/204744/quizzes/290129) (not indicative of the material just the format)
-- [Canvas quiz to check you HonorLock setup](https://gatech.instructure.com/courses/204744/quizzes/305371)
-
+- HW 1 due Thursday at 11:59pm
 ---
 
 # Topics: Encapsulation and Constructors
@@ -44,6 +40,12 @@ http://androidappssourcecodes.blogspot.com/2018/01/accesscanbepackage-private-pr
 - private: can only be called from within the class
 
 - See the diagram in [Canvas](https://gatech.instructure.com/courses/204744/files/24258409?module_item_id=1875154) or in the provided outline
+
+---
+
+this is where we stopped 9/22
+
+---
 
 ## getters and setters (9.9)
  - we add getter/accessor methods for providing public access to private data
