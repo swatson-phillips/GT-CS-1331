@@ -83,12 +83,12 @@ Unicron(String _=name,
 - What if your class has instance data the references another object?
 
 # Static as a modifier on Variables
-- the variable is shared 
+- the variable is shared
 - how can you keep up with the number of `Unicorns` have been created in the program?
 
 # `null` and NPE
-- `null` is a literal value that representse the absence of a reference value
-- this is the daault when a variable that holds an object reference has not been initialize (doesn't point to any object)
+- `null` is a literal value that represents the absence of a reference value
+- this is the default when a variable that holds an object reference has not been initialize (doesn't point to any object)
 - If you try to "deference" a variable that holds a null value, you can end up with a `NullPointerException`
 - The `NullPointerException` is a Runtime exception that can cause your program to crash.
 - Let's look at an example...
