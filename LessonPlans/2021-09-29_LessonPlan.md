@@ -3,6 +3,9 @@
 # Announcements:
 - Virtual Office Hours and the [new queue](http://1331-livequeue.cc.gatech.edu/online), have to be on GT network or VPN to use
 - HW 1 due Thursday at 11:59pm
+- Exam 1 stats are really good, we'll be releasing the exams via Canvas today (this evening)
+<img width="361" alt="image" src="https://user-images.githubusercontent.com/49889272/135182806-d460eb9d-fc13-4bbc-98b4-c72434362374.png">
+
 ---
 
 # Topics: Encapsulation and Constructors
