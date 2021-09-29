@@ -5,6 +5,8 @@
 - HW 1 due Thursday at 11:59pm
 - Exam 1 stats are really good, we'll be releasing the exams via Canvas today (this evening)
 <img width="361" alt="image" src="https://user-images.githubusercontent.com/49889272/135182806-d460eb9d-fc13-4bbc-98b4-c72434362374.png">
+<img src="https://user-images.githubusercontent.com/49889272/135184033-8dea48ac-bd9b-46e9-8a9e-81c8835f41e3.png">
+
 
 ---
 
