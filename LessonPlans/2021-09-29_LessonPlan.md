@@ -4,8 +4,8 @@
 - Virtual Office Hours and the [new queue](http://1331-livequeue.cc.gatech.edu/online), have to be on GT network or VPN to use
 - HW 1 due Thursday at 11:59pm
 - Exam 1 stats are really good, we'll be releasing the exams via Canvas today (this evening)
-<img width="361" alt="image" src="https://user-images.githubusercontent.com/49889272/135182806-d460eb9d-fc13-4bbc-98b4-c72434362374.png">
-<img src="https://user-images.githubusercontent.com/49889272/135184033-8dea48ac-bd9b-46e9-8a9e-81c8835f41e3.png">
+<img width="361" alt="image" src="https://user-images.githubusercontent.com/49889272/135184414-096a0a44-14b4-4689-9947-c3145a2682b2.png">
+<img src="https://user-images.githubusercontent.com/49889272/135184443-201fd5a4-1603-444a-bf0b-8d4a8dfd9a0e.png">
 
 
 ---
