@@ -17,14 +17,11 @@
 - Have methods and fields to do things more easily
 - Auto boxing and auto-unboxing and the problems that can happen (example)
 
-# Class design and interaction
-- Zoo example
-- Try out the "Class Communication" problem given in the outline before the next lecture
-
 # Inheritance
 - process of defining/deriving new classes from existing ones. A sub-class automatically contains some or all of the methods and data of the original (parent) class but can also add new ones
 - The keyword to indicate that a child class extends (is a child of) a parent is **extends**
 - The relationship can be expressed as a “is a” hierarchy; for example, Square is a Shape, *Circle* **is a** *Shape*
+- A Person, Student, and a Dentist walk into a resturant...
 - Access
--super keyword and constructor chaining
--single vs Multiple inheritance and what Java is
+- super keyword and constructor chaining
+- single vs Multiple inheritance and what Java is
