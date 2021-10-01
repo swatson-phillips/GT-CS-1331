@@ -2,6 +2,9 @@
 
 # Announcements:
 - Exam 1 regrades due by 10/6/21 [here](https://forms.office.com/Pages/ResponsePage.aspx?id=u5ghSHuuJUuLem1_Mvqgg116w8wwfSRJtFsYJ4T2CRtUOEhDQ1MzV1hHSldWR0g3UFRFVENIQzBPNiQlQCN0PWcu)
+- Please be respectful of other students in TA OH and leave the qube once your question has been answered.
+- If the TA Office Hourse queue doesn’t take you to a page with TAs faces on it and your spot in line, you should clear your cache (including browsing data and with time set to all time)
+ 
 ---
 
 # Topics: Class design and interaction, Wrapper Classes, Inheritance
