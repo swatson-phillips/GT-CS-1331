@@ -15,8 +15,8 @@
 - process of defining/deriving new classes from existing ones. A sub-class automatically contains some or all of the methods and data of the original (parent) class but can also add new ones
 - The keyword to indicate that a child class extends (is a child of) a parent is **extends**
 - The relationship can be expressed as a “is a” hierarchy; for example, Square is a Shape, *Circle* **is a** *Shape*
-- A Person, Student, and a Dentist walk into a restaurant...
-- single vs Multiple inheritance and what Java is (single inheritance)
+- A `Person`, `Student`, and a `Dentist` walk into a restaurant...
+- Single vs Multiple inheritance and what Java is (single inheritance)
 - Access:
     - A child can access ALL public data/methods of the parent
 
