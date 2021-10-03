@@ -50,6 +50,14 @@
 - Also recall that a child class inherits the public and protected methods from it's parent.
 - But what if you want a child class to have different behavior than it's parent?
 - This is called ***overridding***. When a child has a method with the same signature as it's parent, it over-writes the parents implementation (i.e. provides a different implementation).
+- You can call the parent's implementation explicitly using the `super` keyword
 - Static methods can be inherited, but not overridden (simple hides the superclass’ method, this gets into run-time polymorphism which we haven't gotten to yet) https://www.geeksforgeeks.org/can-we-overload-or-override-static-methods-in-java/
 - **Overriding instance variables?** ***Don’t do this***, it leads to problems, the child class already has the variable 
 - `@Overrides` annotation - optional but gives you some added compile time checking to ensure that you are actually overriding and not overloading. 
+
+## `Object` class
+- The `Object` class is the root of the class hierarchy
+- https://docs.oracle.com/javase/8/docs/api/java/lang/Object.html
+- We've been using some of the inherited `Object` methods all along: `toString()` and `equals(Object obj)`
+- But we should be overriding the implementation with our own.
+- Override `toString` and `equals` in `Person`, `Student`, `Dentist`
