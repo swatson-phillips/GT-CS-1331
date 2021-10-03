@@ -6,7 +6,7 @@
 
 ---
 
-# Topics: Inheritance
+# Topics: Inheritance and Additional Visibility 
 
 ---
 
@@ -27,6 +27,8 @@
 - `super` keyword: gives access to the parent’s members (data and methods) (kinda like the “this” keyword but for parents). Commonly used to invoke the parent’s constructor
 - implicit constructor chaining: Java will insert a `super()` call (with no parameters) as the very first line in the child constructor. If there is not a no parameter constructor in the parent, there will be a compile time error; with the exception of other explicit chained constructor calls.
 - constructor call chain: w7_constructorChaining.ppt
+
+
 # Additional Visibility
 - What is the visibility if we do not put a modifier, rely on the default? Field/method is accessible to members of the class itself and to other classes in the same *package*.
 - But what if we want the classes in the package and any of the class's children to be able to access the field/method? There is a `protected` modifier. Slightly less restrictive than the default level of accessibility.
@@ -42,3 +44,12 @@
 
 -https://docs.oracle.com/javase/tutorial/java/javaOO/accesscontrol.html
 
+# Overriding and the `Object` class
+## Overriding
+- Recall the **overloading** is when you have more than 1 method with the same name but different parameter lists.
+- Also recall that a child class inherits the public and protected methods from it's parent.
+- But what if you want a child class to have different behavior than it's parent?
+- This is called ***overridding***. When a child has a method with the same signature as it's parent, it over-writes the parents implementation (i.e. provides a different implementation).
+- Static methods can be inherited, but not overridden (simple hides the superclass’ method, this gets into run-time polymorphism which we haven't gotten to yet) https://www.geeksforgeeks.org/can-we-overload-or-override-static-methods-in-java/
+- **Overriding instance variables?** ***Don’t do this***, it leads to problems, the child class already has the variable 
+- `@Overrides` annotation - optional but gives you some added compile time checking to ensure that you are actually overriding and not overloading. 
