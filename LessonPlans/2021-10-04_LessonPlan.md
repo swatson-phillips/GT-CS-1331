@@ -42,7 +42,7 @@
 |no modifier 	|Y 	|Y 	|N 	|N|
 |private 	|Y 	|N 	|N 	|N|
 
--https://docs.oracle.com/javase/tutorial/java/javaOO/accesscontrol.html
+- https://docs.oracle.com/javase/tutorial/java/javaOO/accesscontrol.html
 
 # Overriding and the `Object` class
 ## Overriding
@@ -55,6 +55,11 @@
 - **Overriding instance variables?** ***Don’t do this***, it leads to problems, the child class already has the variable
 - `@Overrides` annotation - optional but gives you some added compile time checking to ensure that you are actually overriding and not overloading.
 
+---
+
+stopped here 10/4/21
+
+--- 
 ## `Object` class
 - The `Object` class is the root of the class hierarchy
 - https://docs.oracle.com/javase/8/docs/api/java/lang/Object.html
