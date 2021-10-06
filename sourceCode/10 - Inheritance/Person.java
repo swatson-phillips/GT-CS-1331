@@ -1,8 +1,9 @@
-public class Person{
+public class Person {
     private int age;
     public Person() {
         this(0);
     }
+
     public Person(int age) {
         this.age = age;
     }
@@ -10,7 +11,7 @@ public class Person{
     public void talk(){
         System.out.println("Hello dear friend!");
     }
-    
+
     public void talk(String words) {
         System.out.println(words);
     }
