@@ -61,6 +61,12 @@ from API:
 ## Followup Challenge:
 - Write correct `equals` and `toString` methods for the `GrizzlyBear.java` and `CanadianGrizzlyBear.java` classes found in the "#17-18: Inheritance, Protected and Default Visibility Modifiers, and Overriding and the Object class" module in Canvas
 
+---
+
+stopped here 10/6/21
+
+---
+
 # Abstract classes
 ## 5 minute intro.
 1. "Placeholder" class that has some pieces missing that children need to provide.
