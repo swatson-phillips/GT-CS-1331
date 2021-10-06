@@ -1,4 +1,4 @@
-# 1331 Day 18 - 10/04/21 Lesson Plan
+# 1331 Day 19 - 10/06/21 Lesson Plan
 
 # Announcements:
 - Small modification to format of lectures
