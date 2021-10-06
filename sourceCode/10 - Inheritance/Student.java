@@ -20,7 +20,19 @@ public class Student extends Person {
             super.talk(a);
     }
 
+    @Override
+    public boolean equals(Object obj) {
+        Student s;
+        //if(!(this.getClass() == obj.getClass())) {
+        if(!(obj instanceof Student)) {
+            return false;
 
+         } else {
+             s = (Student) obj;
+            return super.equals(s) && this.gpa == s.gpa;
+        }
+
+    }
     /** copied here after lecture
      * it doesn't matter if the main method is here or in another class
      * the private fields of the parent are still private

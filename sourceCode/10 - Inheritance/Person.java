@@ -22,4 +22,20 @@ public class Person {
     public int getAge() {
         return age;
     }
+    @Override
+    public boolean equals(Object obj) {
+        Person p;
+        //if(!(this.getClass() == obj.getClass())) {
+        if(!(obj instanceof Person)) {
+            return false;
+
+         } else {
+             p = (Person) obj;
+            return this.age == p.age;
+        }
+
+    }
+    public String toString(){
+        return "This is a person who is " + age + " years old.";
+    }
 }
