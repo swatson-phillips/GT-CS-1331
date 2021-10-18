@@ -17,12 +17,14 @@
 - Collection of abstract methods and constants (+ a little more after Java 8)
 - Often the name ends in -able (Iterable, Comparable, Readable)
 - Interfaces must be public (this is checked by the compiler)
+- You define an interface with the `interface` keyword before the name of the interface
 ```java
 public interface Bank {
     ...
 }
 ```
 - To implement an interface, you must use the `implements` keyword
+
 - A class can implement **multiple interfaces** this is not multiple inheritance
 ```java
 public class Biggy implements Bank, DrugStore, Cleaner {
@@ -33,6 +35,9 @@ public class Biggy implements Bank, DrugStore, Cleaner {
 - Interfaces can be in hierarchies
 - Java 8 added the ability to define default method implementations. This is done with marking the method with the `default` keyword
 - Java 8 also added the ability to have static methods in an interface.
+
+- So… what problem could arise with the the combination of default methods and the ability to implement multiple interfaces?
+
 
 # `Comparable` interface
 - defines a single method
