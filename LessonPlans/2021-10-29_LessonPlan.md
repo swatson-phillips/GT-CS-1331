@@ -55,6 +55,13 @@ Repeatedly steps through the list, compares adjacent elements and swaps them if 
 - We've seen this in our code already... what can you name?
 - Exceptions are runtime errors. Exception handling enables a program to deal with runtime errors and continue its normal execution.
 - Exceptions are actually objects that define unusual or erroneous situations ***thrown*** by a program, and can be ***caught*** and handled.
+
+---
+
+stopped here 10/29/2021
+
+---
+
 ## Basic Examples
 - `Zero.java` What happen when we do nothing
 - `ZeroCaught.java` try/catch/finally
