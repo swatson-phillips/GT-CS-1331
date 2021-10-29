@@ -67,3 +67,7 @@ Repeatedly steps through the list, compares adjacent elements and swaps them if 
 - `MyOutOfRangeException.java` - custom exception
 - `CreatingExceptions.java` - using custom exceptions
 - `Propagation.java` - how exceptions propagate (flow)
+
+## Declaring exceptions
+- If your method can throw a checked exception and you do not wrap it in a try catch block, then you must include a throws <insert checked exception name> to the method header.
+- Unchecked exceptions (Runtime exceptions) do not have to be caught nor included in a throws clause because they are expected to be rare in occurrence.
