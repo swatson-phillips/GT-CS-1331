@@ -1,11 +1,10 @@
 # 1331 Day 29 - 11/01/21 Lesson Plan
 
 # Announcements:
-- Regrade requests for Exam 2 are due by 10/29 @11:59pm
-
+- Exam 3 on Friday (goes through recursion)
 ---
 
-# Topics: Exceptions, File I/O, and Recurstion
+# Topics: Exceptions, File I/O, and Recursion
 
 ---
 
@@ -68,4 +67,4 @@ outWriter.printLn(...);
     2. You must make progress towards the base case
     3. You don’t talk about recursion… JK, you should talk about recursion ;-)
 
-# Coding activity 
+# Coding activity
