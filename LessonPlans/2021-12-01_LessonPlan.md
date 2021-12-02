@@ -8,8 +8,10 @@
 
 >The time it takes to say "thank you" can be brief, but the impact it has is far greater than you may realize.  Choose someone to thank today!
 
->(http://thankateacher.gatech.edu)[http://thankateacher.gatech.edu]
-- CIOS
+>[http://thankateacher.gatech.edu](http://thankateacher.gatech.edu)
+- CIOS: access through the Canvas left nevigation menu is the best way
+- 
+![image](https://user-images.githubusercontent.com/49889272/144159092-61c88016-38a0-40f8-9a73-0bfd78b5106c.png)
 
 ---
 
@@ -29,6 +31,32 @@ class CandyNode {
      private CandyNode next;
 }
 ```
-- (Linked List Animation)[http://liveexample.pearsoncmg.com/dsanimation/LinkedListeBook.html]
--
--
+- The linked list itself just keeps up with the head (start) and optionally the tail (end) nodes and then operations that can be performed on it. It does NOT keep up with ALL of the elements.
+- [Linked List Animation](http://liveexample.pearsoncmg.com/dsanimation/LinkedListeBook.html)
+
+- Lets look at a `TrainLinkedList` example:
+    - `ListADT.java`
+    - `TrainNode.java`
+    - `TrainList.java`
+- Let's look at the code for `TrainNode`
+- Let's look at the code for `TrainList`:
+   - `TrainNode`
+   - `TrainNode remove()`
+   - `TrainNode remove(TrainNode element)`
+- Let's talk through an `add(E element)`. What about `addAfter(E there, E element)`
+- Types of Linked List
+    - Singly
+    - Circular Single
+    - Double
+    - Circular Double
+# Sets
+- We already talked about set ADTs. They have no duplication and no positional guarentees 
+- Let's implement a set
+- Let's start with the `SetADT.java` file in Canvas
+- Let's impement an `ArraySet`
+    - `boolean add(T element)`
+    - `boolean addAll(SetADT<T> anotherSet)`
+    - `int size()`
+    - `boolean isEmpty()`
+    - `boolean remove(T element)`
+    - `boolean contains(T element)`
