@@ -10,9 +10,11 @@
 ---
 
 # Review of Iterable and Iterator
--
+- overview
+- questions
 
 # THE Framework
+- Slides 32-45 here:https://docs.google.com/presentation/d/1stgHwUrNQ8psIRw6nQu8pn0J90FUdOHy3pefoTwSD3E/edit?usp=sharing
 - From the guide [Collections Framework Overview](https://docs.oracle.com/javase/8/docs/technotes/guides/collections/overview.html)
 >The Java platform includes a collections framework. A collection is an object that represents a group of objects (such as the classic Vector class). A collections framework is a unified architecture for representing and manipulating collections, enabling collections to be manipulated independently of implementation details.
 
